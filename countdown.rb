@@ -2,7 +2,7 @@
 
 def countdown(time)
   i = time
-  while(i > 0)
+  while i > 0
     puts "#{i} SECONDS(S)!"
     i--
   end
